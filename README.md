@@ -2,10 +2,6 @@
 
 # Phase 2: Portfolio Starter Pack
 
-# 🚀 My Mission
-
-My mission is to build a strong foundation in Data Science by applying data, technology, and analytical thinking to solve real-world financial challenges. I want to develop practical skills that will allow me to create data-driven solutions that improve business performance, reduce risk, and support better decision-making within the finance industry.
-
 ---
 
 # 👤 Mini Bio / Positioning Statement
@@ -74,7 +70,7 @@ Problem-solving is an important skill for every Data Scientist. I want to improv
 
 ## 30-Day Goal
 
-Complete an introductory Machine Learning course while strengthening my Python and SQL skills. I also plan to analyse a small financial dataset and create simple visualisations to practise applying what I have learned.
+Expecting to learn more about Machine Learning in shaper courses while strengthening my Python and SQL skills. I also plan to analyse a small financial dataset and create simple visualisations to practise applying what I have learned.
 
 ---
 
@@ -82,8 +78,4 @@ Complete an introductory Machine Learning course while strengthening my Python a
 
 Build and publish at least two finance-related Data Science projects on GitHub, including a fraud detection model and a financial dashboard. I also want to document my learning journey by writing short project summaries that demonstrate my problem-solving process, technical skills, and insights gained from each project.
 
----
 
-# 🌱 Portfolio Vision
-
-This Portfolio Starter Pack represents the beginning of my journey toward becoming a professional Data Scientist in the finance industry. As I continue learning and gaining practical experience, I will expand this portfolio with real-world projects that demonstrate my technical abilities, analytical thinking, and commitment to using data to create meaningful business impact.
