@@ -5,7 +5,6 @@
 
 Hi, I'm **Lucky July Twala**, an aspiring **Data Scientist** with a growing passion for using data to solve real-world financial problems. I am currently developing my skills in data analytics, machine learning, SQL, Python, Power BI, and Excel while studying ICT Application Development. My goal is to use data to uncover valuable insights, improve financial processes, and help organisations make smarter, data-driven decisions.
 
-<span style="color:red">Hello</span>
 ---
 
 # 🎯 Target Role
