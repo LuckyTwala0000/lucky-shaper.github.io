@@ -1,4 +1,3 @@
-# lucky-shaper.github.io
 
 # Phase 2: Portfolio Starter Pack
 
