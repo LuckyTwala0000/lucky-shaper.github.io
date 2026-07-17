@@ -21,13 +21,13 @@ I chose this role because I enjoy analysing data, discovering patterns, and usin
 
 ## Project Idea 1: Financial Fraud Detection System
 
-Develop a machine learning model that analyses financial transaction data to identify suspicious activities and potential fraud. The project would use historical transaction data to recognise unusual patterns and help financial institutions detect fraudulent behaviour before significant losses occur.
+* Develop a machine learning model that analyses financial transaction data to identify suspicious activities and potential fraud. The project would use historical transaction data to recognise unusual patterns and help financial institutions detect fraudulent behaviour before significant losses occur.
 
 ---
 
 ## Project Idea 2: Customer Spending Behaviour Dashboard
 
-Create an interactive Power BI dashboard that analyses customer spending patterns, transaction history, and financial trends. The dashboard would provide insights that help financial institutions understand customer behaviour and support better business decisions.
+* Create an interactive Power BI dashboard that analyses customer spending patterns, transaction history, and financial trends. The dashboard would provide insights that help financial institutions understand customer behaviour and support better business decisions.
 
 ---
 
@@ -37,7 +37,7 @@ Create an interactive Power BI dashboard that analyses customer spending pattern
 
 ### Machine Learning
 
-Machine learning is the technical skill I am most excited to develop because it is essential for building predictive models such as fraud detection, customer behaviour analysis, and financial forecasting. Strengthening this skill will help me become a more effective Data Scientist within the finance industry.
+* Machine learning is the technical skill I am most excited to develop because it is essential for building predictive models such as fraud detection, customer behaviour analysis, and financial forecasting. Strengthening this skill will help me become a more effective Data Scientist within the finance industry.
 
 ---
 
@@ -45,7 +45,7 @@ Machine learning is the technical skill I am most excited to develop because it 
 
 ### Problem-Solving
 
-Problem-solving is an important skill for every Data Scientist. I want to improve my ability to analyse complex business challenges, think critically, and develop practical, data-driven solutions that create value for organisations and customers.
+* Problem-solving is an important skill for every Data Scientist. I want to improve my ability to analyse complex business challenges, think critically, and develop practical, data-driven solutions that create value for organisations and customers.
 
 ---
 
@@ -53,12 +53,12 @@ Problem-solving is an important skill for every Data Scientist. I want to improv
 
 ## 30-Day Goal
 
-Expecting to learn more about Machine Learning in shaper courses while strengthening my Python and SQL skills. I also plan to analyse a small financial dataset and create simple visualisations to practise applying what I have learned.
+* Expecting to learn more about Machine Learning in shaper courses while strengthening my Python and SQL skills. I also plan to analyse a small financial dataset and create simple visualisations to practise applying what I have learned.
 
 ---
 
 ## 6-Month Goal
 
-Build and publish at least two finance-related Data Science projects on GitHub, including a fraud detection model and a financial dashboard. I also want to document my learning journey by writing short project summaries that demonstrate my problem-solving process, technical skills, and insights gained from each project.
+* Build and publish at least two finance-related Data Science projects on GitHub, including a fraud detection model and a financial dashboard. I also want to document my learning journey by writing short project summaries that demonstrate my problem-solving process, technical skills, and insights gained from each project.
 
 
