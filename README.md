@@ -1,13 +1,13 @@
 
 # Phase 2: Portfolio Starter Pack
 
-# 👤 Mini Bio / Positioning Statement
+# Mini Bio / Positioning Statement
 
 Hi, I'm **Lucky July Twala**, an aspiring **Data Scientist** with a growing passion for using data to solve real-world financial problems. I am currently developing my skills in data analytics, machine learning, SQL, Python, Power BI, and Excel while studying ICT Application Development. My goal is to use data to uncover valuable insights, improve financial processes, and help organisations make smarter, data-driven decisions.
 
 ---
 
-# 🎯 Target Role
+# Target Role
 
 ## Data Scientist
 
@@ -17,7 +17,7 @@ I chose this role because I enjoy analysing data, discovering patterns, and usin
 
 ---
 
-# 💡 Seed Project Ideas
+# Seed Project Ideas
 
 ## Project Idea 1: Financial Fraud Detection System
 
@@ -45,7 +45,7 @@ Create an interactive Power BI dashboard that analyses customer spending pattern
 
 ---
 
-# 📚 Skills to Grow
+# Skills to Grow
 
 ## Technical Skill
 
@@ -63,7 +63,7 @@ Problem-solving is an important skill for every Data Scientist. I want to improv
 
 ---
 
-# 🎯 Goals
+# Goals
 
 ## 30-Day Goal
 
