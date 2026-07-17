@@ -3,7 +3,7 @@
 
 # Mini Bio / Positioning Statement
 
-Hi, I'm **Lucky July Twala**, an aspiring **Data Scientist** with a growing passion for using data to solve real-world financial problems. I am currently developing my skills in data analytics, machine learning, SQL, Python, Power BI, and Excel while studying ICT Application Development. My goal is to use data to uncover valuable insights, improve financial processes, and help organisations make smarter, data-driven decisions.
+Hi, I'm **Lucky July Twala**, an aspiring **Data Scientist** with a growing passion for using data to solve real-world financial problems. I am currently developing my skills in data analytics, machine learning, SQL, Python, Power BI, and Excel while studying ICT Application Development. My goal is to use data to uncover valuable insights, improve financial processes, and help organisations make better decisions, data-driven decisions.
 
 ---
 
@@ -23,25 +23,11 @@ I chose this role because I enjoy analysing data, discovering patterns, and usin
 
 Develop a machine learning model that analyses financial transaction data to identify suspicious activities and potential fraud. The project would use historical transaction data to recognise unusual patterns and help financial institutions detect fraudulent behaviour before significant losses occur.
 
-**Skills involved:**
-- Python
-- SQL
-- Machine Learning
-- Data Cleaning
-- Data Visualisation
-
 ---
 
 ## Project Idea 2: Customer Spending Behaviour Dashboard
 
 Create an interactive Power BI dashboard that analyses customer spending patterns, transaction history, and financial trends. The dashboard would provide insights that help financial institutions understand customer behaviour and support better business decisions.
-
-**Skills involved:**
-- Power BI
-- SQL
-- Excel
-- Data Visualisation
-- Data Analysis
 
 ---
 
